@@ -1,4 +1,4 @@
-# NewsApp-MVVM
+# BBC NewsApp-MVVM
 News app built using Swift, NewsAPI, and MVVM
 
 
